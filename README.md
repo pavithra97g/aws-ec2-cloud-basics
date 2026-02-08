@@ -18,6 +18,7 @@ To understand basic cloud infrastructure concepts using AWS EC2 Free Tier.
 7. Stopped EC2 instance to avoid billing
 
 ## Architecture
+```
 User Browser
      |
  Public IP
@@ -25,6 +26,7 @@ User Browser
 AWS EC2 (Amazon Linux)
      |
 Apache Web Server
+```
 
 ## Outcome
 Successfully deployed a web server on AWS EC2 and understood cloud fundamentals.
